@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSV_Duplicate_record_Remover/1.0.0": {
+        "runtime": {
+          "CSV_Duplicate_record_Remover.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSV_Duplicate_record_Remover/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

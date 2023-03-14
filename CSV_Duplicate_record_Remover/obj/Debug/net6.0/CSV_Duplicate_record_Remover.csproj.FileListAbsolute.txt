@@ -1,0 +1,15 @@
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\bin\Debug\net6.0\CSV_Duplicate_record_Remover.exe
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\bin\Debug\net6.0\CSV_Duplicate_record_Remover.deps.json
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\bin\Debug\net6.0\CSV_Duplicate_record_Remover.runtimeconfig.json
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\bin\Debug\net6.0\CSV_Duplicate_record_Remover.dll
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\bin\Debug\net6.0\CSV_Duplicate_record_Remover.pdb
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\CSV_Duplicate_record_Remover.csproj.AssemblyReference.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\CSV_Duplicate_record_Remover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\CSV_Duplicate_record_Remover.AssemblyInfoInputs.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\CSV_Duplicate_record_Remover.AssemblyInfo.cs
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\CSV_Duplicate_record_Remover.csproj.CoreCompileInputs.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\CSV_Duplicate_record_Remover.dll
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\refint\CSV_Duplicate_record_Remover.dll
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\CSV_Duplicate_record_Remover.pdb
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\CSV_Duplicate_record_Remover.genruntimeconfig.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_Duplicate_record_Remover\CSV_Duplicate_record_Remover\obj\Debug\net6.0\ref\CSV_Duplicate_record_Remover.dll
